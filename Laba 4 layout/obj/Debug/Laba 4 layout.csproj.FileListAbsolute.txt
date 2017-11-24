@@ -1,0 +1,31 @@
+D:\All my work\Параленьні обчислення\Laba 4 layout\Laba 4 layout\bin\Debug\Laba 4 layout.exe.config
+D:\All my work\Параленьні обчислення\Laba 4 layout\Laba 4 layout\bin\Debug\Laba 4 layout.exe
+D:\All my work\Параленьні обчислення\Laba 4 layout\Laba 4 layout\bin\Debug\Laba 4 layout.pdb
+D:\All my work\Параленьні обчислення\Laba 4 layout\Laba 4 layout\obj\Debug\Laba 4 layout.csprojResolveAssemblyReference.cache
+D:\All my work\Параленьні обчислення\Laba 4 layout\Laba 4 layout\obj\Debug\MainWindow.baml
+D:\All my work\Параленьні обчислення\Laba 4 layout\Laba 4 layout\obj\Debug\MainWindow.g.cs
+D:\All my work\Параленьні обчислення\Laba 4 layout\Laba 4 layout\obj\Debug\App.g.cs
+D:\All my work\Параленьні обчислення\Laba 4 layout\Laba 4 layout\obj\Debug\Laba 4 layout_MarkupCompile.cache
+D:\All my work\Параленьні обчислення\Laba 4 layout\Laba 4 layout\obj\Debug\Laba 4 layout.g.resources
+D:\All my work\Параленьні обчислення\Laba 4 layout\Laba 4 layout\obj\Debug\Laba_4_layout.Properties.Resources.resources
+D:\All my work\Параленьні обчислення\Laba 4 layout\Laba 4 layout\obj\Debug\Laba 4 layout.csproj.GenerateResource.Cache
+D:\All my work\Параленьні обчислення\Laba 4 layout\Laba 4 layout\obj\Debug\Laba 4 layout.exe
+D:\All my work\Параленьні обчислення\Laba 4 layout\Laba 4 layout\obj\Debug\Laba 4 layout.pdb
+D:\All my work\Параленьні обчислення\Laba 4 layout\Laba 4 layout\obj\Debug\Laba 4 layout_Content.g.cs
+D:\All my work\Параленьні обчислення\Laba 4 layout\Laba 4 layout\obj\Debug\App.baml
+C:\Users\Yura\Desktop\Files\Параленьні обчислення\Laba 4 layout\Laba 4 layout\bin\Debug\Laba 4 layout.exe.config
+C:\Users\Yura\Desktop\Files\Параленьні обчислення\Laba 4 layout\Laba 4 layout\bin\Debug\Laba 4 layout.exe
+C:\Users\Yura\Desktop\Files\Параленьні обчислення\Laba 4 layout\Laba 4 layout\bin\Debug\Laba 4 layout.pdb
+C:\Users\Yura\Desktop\Files\Параленьні обчислення\Laba 4 layout\Laba 4 layout\obj\Debug\Laba 4 layout.csprojResolveAssemblyReference.cache
+C:\Users\Yura\Desktop\Files\Параленьні обчислення\Laba 4 layout\Laba 4 layout\obj\Debug\MainWindow.baml
+C:\Users\Yura\Desktop\Files\Параленьні обчислення\Laba 4 layout\Laba 4 layout\obj\Debug\App.baml
+C:\Users\Yura\Desktop\Files\Параленьні обчислення\Laba 4 layout\Laba 4 layout\obj\Debug\MainWindow.g.cs
+C:\Users\Yura\Desktop\Files\Параленьні обчислення\Laba 4 layout\Laba 4 layout\obj\Debug\App.g.cs
+C:\Users\Yura\Desktop\Files\Параленьні обчислення\Laba 4 layout\Laba 4 layout\obj\Debug\Laba 4 layout_Content.g.cs
+C:\Users\Yura\Desktop\Files\Параленьні обчислення\Laba 4 layout\Laba 4 layout\obj\Debug\Laba 4 layout_MarkupCompile.cache
+C:\Users\Yura\Desktop\Files\Параленьні обчислення\Laba 4 layout\Laba 4 layout\obj\Debug\Laba 4 layout.g.resources
+C:\Users\Yura\Desktop\Files\Параленьні обчислення\Laba 4 layout\Laba 4 layout\obj\Debug\Laba_4_layout.Properties.Resources.resources
+C:\Users\Yura\Desktop\Files\Параленьні обчислення\Laba 4 layout\Laba 4 layout\obj\Debug\Laba 4 layout.csproj.GenerateResource.Cache
+C:\Users\Yura\Desktop\Files\Параленьні обчислення\Laba 4 layout\Laba 4 layout\obj\Debug\Laba 4 layout.csproj.CoreCompileInputs.cache
+C:\Users\Yura\Desktop\Files\Параленьні обчислення\Laba 4 layout\Laba 4 layout\obj\Debug\Laba 4 layout.exe
+C:\Users\Yura\Desktop\Files\Параленьні обчислення\Laba 4 layout\Laba 4 layout\obj\Debug\Laba 4 layout.pdb
